@@ -334,7 +334,7 @@ function FinalSceneComponent({ onClose }) {
                             transition={{ duration: 1 }}
                             className="text-4xl md:text-6xl font-bold text-pink-500 mb-8"
                         >
-                            ولو كان في عمر تاني… هختارك برضه
+                            ولو كان في عمر تاني… هختارك أنتي برضه
                         </motion.h2>
                     )}
 
